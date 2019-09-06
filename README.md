@@ -37,3 +37,7 @@ in-house
 
 ##version 0.01
 Created some base html code items without styling
+
+##version 0.02
+Created diagrams and basic organization
+Saved Draw.io diagram and image
